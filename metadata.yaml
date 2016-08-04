@@ -1,0 +1,41 @@
+_repo: The-Odyssey--13-Rendered-into-English-prose-for-the-use-of-those-who-cannot-read-the-original_1727
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: See also PG#1728 and PG#3160
+gutenberg_bookshelf:
+- Classical Antiquity
+- Harvard Classics
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character)'
+- !lcc 'PA'
+- !lcsh 'Homer -- Translations into English'
+- GITenberg
+title: "The Odyssey\r\nRendered into English prose for the use of those who cannot\
+  \ read the original"
+url: http://www.gutenberg.org/ebooks/1727
