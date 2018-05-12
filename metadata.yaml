@@ -1,5 +1,5 @@
 _repo: The-Odyssey--13-Rendered-into-English-prose-for-the-use-of-those-who-cannot-read-the-original_1727
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Butler, Samuel
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '748'
     url: http://www.gutenberg.org/2009/agents/748
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Homer
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/705
     wikipedia: http://en.wikipedia.org/wiki/Homer
 description: See also PG#1728 and PG#3160
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1727#The-Odyssey--13-Rendered-into-English-prose-for-the-use-of-those-who-cannot-read-the-original
 gutenberg_bookshelf:
 - Classical Antiquity
 - Harvard Classics
